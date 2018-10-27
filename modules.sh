@@ -1,5 +1,6 @@
 #!/bin/sh
 
+cd $HOME
 mkdir node_logs
 
 echo "Installing ember-cli"
