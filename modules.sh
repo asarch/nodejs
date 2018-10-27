@@ -35,3 +35,6 @@ npm install --verbose unitejs-cli > node_logs/unitejs-cli.log 2>&1
 
 echo "Installing render-vendor"
 npm install --verbose render-vendor > node_logs/render-vendor.log 2>&1
+
+echo "Installing express-generator"
+npm install --verbose express-generator > node_logs/express-generator.log 2>&1
