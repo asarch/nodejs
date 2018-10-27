@@ -38,3 +38,9 @@ npm install --verbose render-vendor > node_logs/render-vendor.log 2>&1
 
 echo "Installing express-generator"
 npm install --verbose express-generator > node_logs/express-generator.log 2>&1
+
+echo "Installing cookie-parser"
+npm install --verbose cookie-parser > node_logs/cookie-parser.log 2>&1
+
+echo "Installing pug"
+npm install --verbose pug > node_logs/pug.log 2>&1
