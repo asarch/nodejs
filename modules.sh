@@ -6,9 +6,6 @@ mkdir node_logs
 echo "Installing ember-cli"
 npm install --verbose ember-cli > node_logs/ember-cli.log 2>&1
 
-echo "Installing elm"
-npm install --verbose elm > node_logs/elm.log 2>&1
-
 echo "Installing expressjs"
 npm install --verbose express > node_logs/expressjs.log 2>&1
 
