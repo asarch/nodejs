@@ -7,4 +7,8 @@ First of all, get the latest relase of NodeJS from the latest nvm release:
 
 https://github.com/creationix/nvm
 
+or
+
+https://github.com/nvm-sh/nvm
+
 Follow the instructions and then run de installacion script from this repository.
