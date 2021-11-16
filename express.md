@@ -3,7 +3,7 @@
 ## Installation
 
 ```
-npm install --verbose express express-generator sequelize pg pg-hstore handlebars
+npm install --verbose express express-generator sequelize sequelize-cli pg pg-hstore pg-promise unitejs-cli handlebars sqlite3 render-vendor cookie-parser 
 ```
 
 In Debian you could:
